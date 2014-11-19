@@ -20,5 +20,4 @@ SOURCES += main.cpp
 
 HEADERS += \
     Product.h \
-    Client.h \
-    Magazine.h
+    Client-Magazine.h
